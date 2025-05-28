@@ -1,0 +1,48 @@
+/* Загальний стиль */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Заголовок */
+h1 {
+    color: #004080;
+    text-align: center;
+}
+
+/* Підзаголовки */
+h2 {
+    color: #0066cc;
+    margin-top: 30px;
+}
+
+/* Список */
+ul {
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+/* Посилання */
+a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Нижній колонтитул */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #777;
+}
